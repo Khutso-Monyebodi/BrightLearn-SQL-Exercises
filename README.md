@@ -1,0 +1,1 @@
+# BrightLearn-SQL-Exercises
